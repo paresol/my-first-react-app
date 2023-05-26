@@ -1,0 +1,27 @@
+@import "~bootstrap/scss/bootstrap";
+
+.btn-toolbar {
+  .input-group {
+    width: 100%;
+  }
+}
+
+.btn-addon {
+  background-color: dodgerblue;
+  border-color: dodgerblue;
+  color: #ffffff;
+}
+
+.text-style {
+  float: left;
+}
+
+.text-disabled {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.button-style {
+  float: right;
+  margin-left: 5px;
+}
